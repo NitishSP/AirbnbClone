@@ -83,10 +83,10 @@ I developed a full-stack web application inspired by Airbnb with CRUD operations
 
 ```bash
 Clone the project
-git clone https://github.com/Shashi-Srivastav/Namaste-Yatra.git
+git clone https://github.com/NitishSP/TravelNest-Solutions.git
 
 Go to the project directory
-cd Namaste-Yatra
+cd TravelNest-Solutions
 
 Install dependencies
 npm install
